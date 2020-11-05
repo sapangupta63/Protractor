@@ -8,19 +8,20 @@
   },
   "scripts": {
     "protractortest": "protractor conf.js",
+    "test": "protractor .\\conf.js --parameters.url.qa",
     "report": "allure generate allure-results --clean -o allure-report || true"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@reportportal/agent-js-jasmine": "^5.0.0",
+    "@types/jest": "^24.0.18",
     "agent-js-jasmine": "^3.0.0",
     "allure-commandline": "^2.13.0",
+    "jest": "^26.6.3",
+    "jest-puppeteer": "^4.4.0",
     "protractor-beautiful-reporter": "^1.3.6",
-    "puppeteer": "^5.3.1",
-    "jest": "^26.4.2",
-    "@types/jest": "^24.0.18",
-    "jest-puppeteer": "^4.4.0"
+    "puppeteer": "^5.3.1"
   },
   "dependencies": {
     "babel-preset-es2015": "^6.24.1",

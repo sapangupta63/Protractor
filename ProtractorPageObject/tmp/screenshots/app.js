@@ -6247,13 +6247,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation2603/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation2603/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600437926075,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation2603/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation2603/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600437928021,
                 "type": ""
             },
@@ -6277,7 +6277,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation2603/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation2603/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600437934770,
                 "type": ""
             }
@@ -6323,13 +6323,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation2432/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation2432/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600438414059,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation2432/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation2432/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600438416022,
                 "type": ""
             },
@@ -6353,7 +6353,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation2432/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation2432/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600438421500,
                 "type": ""
             }
@@ -6399,7 +6399,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation865/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation865/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600438978875,
                 "type": ""
             },
@@ -6612,7 +6612,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600440126681,
                 "type": ""
             },
@@ -6636,13 +6636,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600440130991,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600440131441,
                 "type": ""
             },
@@ -6666,13 +6666,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600440152571,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600440153910,
                 "type": ""
             },
@@ -6696,13 +6696,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600440166575,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation4727/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600440167322,
                 "type": ""
             }
@@ -6744,7 +6744,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5586/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5586/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600441304277,
                 "type": ""
             },
@@ -6774,13 +6774,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5586/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5586/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600441308041,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5586/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5586/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600441309532,
                 "type": ""
             }
@@ -6826,13 +6826,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600442015607,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600442017453,
                 "type": ""
             },
@@ -6856,7 +6856,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600442023668,
                 "type": ""
             },
@@ -6880,7 +6880,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5751/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600442037011,
                 "type": ""
             }
@@ -8414,7 +8414,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5406/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5406/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600491601926,
                 "type": ""
             },
@@ -8438,7 +8438,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5406/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5406/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600491618166,
                 "type": ""
             },
@@ -8456,7 +8456,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5406/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5406/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600491633372,
                 "type": ""
             },
@@ -8544,7 +8544,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492235093,
                 "type": ""
             },
@@ -8568,13 +8568,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492238718,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492239741,
                 "type": ""
             },
@@ -8598,13 +8598,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492261007,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492262021,
                 "type": ""
             },
@@ -8622,7 +8622,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492275631,
                 "type": ""
             },
@@ -8634,7 +8634,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1478/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492277975,
                 "type": ""
             },
@@ -8736,7 +8736,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492823322,
                 "type": ""
             },
@@ -8760,13 +8760,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492830633,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492833693,
                 "type": ""
             },
@@ -8790,13 +8790,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492850007,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492851946,
                 "type": ""
             },
@@ -8820,13 +8820,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492970053,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation9902/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600492971893,
                 "type": ""
             }
@@ -8910,13 +8910,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600493293500,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600493294696,
                 "type": ""
             },
@@ -8940,7 +8940,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600493302371,
                 "type": ""
             },
@@ -8958,7 +8958,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation412/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600493315811,
                 "type": ""
             },
@@ -9046,7 +9046,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation181/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation181/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600493907629,
                 "type": ""
             },
@@ -9070,13 +9070,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation181/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation181/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600493913865,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation181/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation181/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600493914566,
                 "type": ""
             }
@@ -9158,7 +9158,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation3266/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation3266/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600495496758,
                 "type": ""
             },
@@ -9176,7 +9176,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation3266/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation3266/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600495500956,
                 "type": ""
             },
@@ -9188,7 +9188,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation3266/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation3266/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600495502822,
                 "type": ""
             }
@@ -9270,7 +9270,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation2220/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation2220/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600496046871,
                 "type": ""
             }
@@ -9352,7 +9352,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation217/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation217/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600496561077,
                 "type": ""
             }
@@ -9434,7 +9434,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1774/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1774/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600496936295,
                 "type": ""
             }
@@ -9516,7 +9516,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation5271/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation5271/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600497772565,
                 "type": ""
             }
@@ -9598,7 +9598,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1326/_layouts/15/\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1326/_layouts/15/\\\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600498503547,
                 "type": ""
             }
@@ -9675,13 +9675,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600499267417,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600499269492,
                 "type": ""
             },
@@ -9699,7 +9699,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600499281196,
                 "type": ""
             },
@@ -9723,7 +9723,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/MercerV2/\\\\\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600499298392,
                 "type": ""
             },
@@ -9848,7 +9848,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501370375,
                 "type": ""
             },
@@ -9860,7 +9860,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501374689,
                 "type": ""
             },
@@ -9878,7 +9878,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501383041,
                 "type": ""
             },
@@ -9890,7 +9890,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501387421,
                 "type": ""
             }
@@ -9949,7 +9949,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501735938,
                 "type": ""
             },
@@ -9961,7 +9961,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501739920,
                 "type": ""
             },
@@ -9985,13 +9985,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501746211,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501746722,
                 "type": ""
             }
@@ -10050,7 +10050,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501848688,
                 "type": ""
             },
@@ -10062,7 +10062,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501852513,
                 "type": ""
             },
@@ -10086,13 +10086,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501859839,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600501860480,
                 "type": ""
             }
@@ -10144,7 +10144,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502043572,
                 "type": ""
             },
@@ -10156,7 +10156,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502045872,
                 "type": ""
             },
@@ -10180,13 +10180,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502052190,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation656/_layouts/15/\\\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502052692,
                 "type": ""
             },
@@ -10269,7 +10269,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502525303,
                 "type": ""
             },
@@ -10293,7 +10293,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/MercerV2/\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/MercerV2/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502533683,
                 "type": ""
             },
@@ -10311,7 +10311,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/MercerV2/\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/MercerV2/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502543982,
                 "type": ""
             },
@@ -10353,7 +10353,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502565067,
                 "type": ""
             },
@@ -10365,7 +10365,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502570398,
                 "type": ""
             },
@@ -10383,7 +10383,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502576189,
                 "type": ""
             },
@@ -10395,7 +10395,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation1424/_layouts/15/\\\\\\\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1600502579542,
                 "type": ""
             },
@@ -10522,13 +10522,13 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/~/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1604603100630,
                 "type": ""
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/~/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1604603102705,
                 "type": ""
             },
@@ -10552,7 +10552,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/MercerV2/~/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/MercerV2/\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1604603109118,
                 "type": ""
             },
@@ -10576,7 +10576,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/MercerV2/~/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/MercerV2/\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1604603122605,
                 "type": ""
             },
@@ -10618,7 +10618,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/~/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1604603140145,
                 "type": ""
             },
@@ -10642,7 +10642,7 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             },
             {
                 "level": "SEVERE",
-                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/~/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "message": "http://sites-qa.mercer.com/sites/Automation7966/_layouts/15/\\x7e/_layouts/15/MercerV2/js/Custom.js?v=2018 - Failed to load resource: the server responded with a status of 404 (Not Found)",
                 "timestamp": 1604603143445,
                 "type": ""
             },
@@ -10656,6 +10656,28 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "screenShotFile": "00e20004-0045-0060-0017-00fd00b4004c.png",
         "timestamp": 1604602845422,
         "duration": 309096
+    },
+    {
+        "description": "LOB Creation|Creating LOB",
+        "passed": false,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 20764,
+        "browser": {
+            "name": "chrome",
+            "version": "86.0.4240.183"
+        },
+        "message": [
+            "Failed: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)\n  (Driver info: chromedriver=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}),platform=Windows NT 10.0.16299 x86_64)",
+            "NoSuchWindowError: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)\n  (Driver info: chromedriver=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}),platform=Windows NT 10.0.16299 x86_64)"
+        ],
+        "trace": [
+            "NoSuchWindowError: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)\n  (Driver info: chromedriver=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}),platform=Windows NT 10.0.16299 x86_64)\n    at Object.checkLegacyResponse (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n    at parseHttpResponse (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\nFrom: Task: WebDriver.findElements(By(css selector, #js-listviewthead-WPQ3 > tr > th:nth-child(3) > div:nth-child(2) > div > a))\n    at Driver.schedule (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at Driver.findElements (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:1048:19)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\built\\element.js:159:44\n    at ManagedPromise.invokeCallback_ (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.<computed> [as getId] (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.<computed> [as getId] (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\built\\element.js:831:22)\n    at ActionSequence.mouseMove (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\actions.js:151:44)\n    at LOBCreationpage.lobhover (C:/Users/sapan-gupta/Downloads/Projects/Protractor/Protractor/ProtractorPageObject/pages/LOBCreationPage.js:135:30)\n    at UserContext.<anonymous> (C:/Users/sapan-gupta/Downloads/Projects/Protractor/Protractor/ProtractorPageObject/test_spec/LOBCreationDeletion_spec.js:12:15)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasminewd2\\index.js:95:18)\nFrom: Task: Run it(\"LOB Creation\") in control flow\n    at UserContext.<anonymous> (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:/Users/sapan-gupta/Downloads/Projects/Protractor/Protractor/ProtractorPageObject/test_spec/LOBCreationDeletion_spec.js:9:1)\n    at addSpecsToSuite (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (C:/Users/sapan-gupta/Downloads/Projects/Protractor/Protractor/ProtractorPageObject/test_spec/LOBCreationDeletion_spec.js:6:1)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at loader (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\babel-register\\lib\\node.js:144:5)\n    at Object.require.extensions.<computed> [as .js] (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\babel-register\\lib\\node.js:154:7)\n    at Module.load (internal/modules/cjs/loader.js:985:32)",
+            "NoSuchWindowError: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)\n  (Driver info: chromedriver=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}),platform=Windows NT 10.0.16299 x86_64)\n    at Object.checkLegacyResponse (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n    at parseHttpResponse (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)\nFrom: Task: WebDriver.takeScreenshot()\n    at Driver.schedule (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at Driver.takeScreenshot (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:1085:17)\n    at run (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\built\\browser.js:59:33)\n    at ProtractorBrowser.to.<computed> [as takeScreenshot] (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\protractor\\built\\browser.js:67:16)\n    at UserContext.<anonymous> (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\conf.js:138:13)\n    at attempt (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at C:\\Users\\sapan-gupta\\Downloads\\Projects\\Protractor\\Protractor\\ProtractorPageObject\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9"
+        ],
+        "browserLogs": [],
+        "timestamp": 1604612874664,
+        "duration": 13642
     }
 ];
 
