@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "protractortest": "protractor conf.js",
+    "report": "allure generate allure-results --clean -o allure-report || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@reportportal/agent-js-jasmine": "^5.0.0",
+    "agent-js-jasmine": "^3.0.0",
+    "allure-commandline": "^2.13.0",
+    "protractor-beautiful-reporter": "^1.3.6"
+  },
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine2-protractor-utils": "^1.3.0",
+    "protractor-html-reporter-2": "^1.0.4",
+    "winston": "^3.3.3",
+    "xlsx": "^0.16.7"
+  }
+}

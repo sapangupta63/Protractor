@@ -1,0 +1,64 @@
+{
+  "uid" : "1305ddb8323c3ae3",
+  "name" : "Teamsite West Creation",
+  "fullName" : "Creating Teamsite West.Teamsite West Creation",
+  "historyId" : "c505d22f5a6cb7e32e16819248a5bcfa",
+  "time" : {
+    "start" : 1600423751829,
+    "stop" : 1600423752115,
+    "duration" : 286
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: Cannot read property 'urlContains' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'urlContains' of undefined\n                    at welcomepage.nextButton (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\WelcomePage.js:11:24)\n                    at UserContext.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\TeamsiteWestCreation_spec.js:18:19)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "TypeError: Cannot read property 'urlContains' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'urlContains' of undefined\n                    at welcomepage.nextButton (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\WelcomePage.js:11:24)\n                    at UserContext.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\TeamsiteWestCreation_spec.js:18:19)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb81008b5bb4ffd2",
+      "name" : "Screenshot",
+      "source" : "bb81008b5bb4ffd2.png",
+      "type" : "image/png",
+      "size" : 4085
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testMethod",
+    "value" : "Teamsite West Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1305ddb8323c3ae3.json",
+  "parameterValues" : [ ]
+}

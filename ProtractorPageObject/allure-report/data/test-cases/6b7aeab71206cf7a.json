@@ -1,0 +1,46 @@
+{
+  "uid" : "6b7aeab71206cf7a",
+  "name" : "Teamsite West Creation",
+  "fullName" : "Creating Teamsite West.Teamsite West Creation",
+  "historyId" : "c505d22f5a6cb7e32e16819248a5bcfa",
+  "time" : {
+    "start" : 1601727265227,
+    "stop" : 1601727283063,
+    "duration" : 17836
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.121)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'INGGNED890P882', ip: '10.3.50.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'\n                Driver info: driver.version: unknown",
+  "statusTrace" : "NoSuchWindowError: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.121)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'INGGNED890P882', ip: '10.3.50.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                From: Task: WebDriver.getTitle()\n                    at thenableWebDriverProxy.schedule (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n                    at thenableWebDriverProxy.getTitle (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:1000:17)\n                    at run (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:59:33)\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                From: Task: Run it(\"Teamsite West Creation\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\TeamsiteWestCreation_spec.js:11:3)\n                    at addSpecsToSuite (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\TeamsiteWestCreation_spec.js:9:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n                    at loader (C:\\PROTRACTOR\\ProtractorPageObject\\node_modules\\babel-register\\lib\\node.js:144:5)\n                    at Object.require.extensions.<computed> [as .js] (C:\\PROTRACTOR\\ProtractorPageObject\\node_modules\\babel-register\\lib\\node.js:154:7)\n                    at Module.load (internal/modules/cjs/loader.js:985:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testMethod",
+    "value" : "Teamsite West Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b7aeab71206cf7a.json",
+  "parameterValues" : [ ]
+}

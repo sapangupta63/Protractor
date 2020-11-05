@@ -1,0 +1,658 @@
+{
+  "uid" : "2e032fc6edaebdda",
+  "name" : "LOB Creation",
+  "fullName" : "Creating LOB.LOB Creation",
+  "historyId" : "b8e9c73aacf101be15fe941cebceaaa2",
+  "time" : {
+    "start" : 1600785969191,
+    "stop" : 1600786002084,
+    "duration" : 32893
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Unknown error",
+  "statusTrace" : "WebDriverError: Unknown error\n                    at Object.checkLegacyResponse (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                From: Task: WebDriver.navigate().to(http://content.mercer.com/Lists/LOB/AllItems.aspx)\n                    at thenableWebDriverProxy.schedule (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n                    at Navigation.to (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:1133:25)\n                    at thenableWebDriverProxy.get (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:988:28)\n                    at ProtractorBrowser.get (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:655:32)\n                    at LOBCreationpage.loblisthvc (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\LOBCreationPage.js:100:25)\n                    at UserContext.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\LOBCreationDeletion_spec.js:13:13)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                From: Task: Run it(\"LOB Creation\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\LOBCreationDeletion_spec.js:11:3)\n                    at addSpecsToSuite (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\LOBCreationDeletion_spec.js:8:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n                    at loader (C:\\PROTRACTOR\\ProtractorPageObject\\node_modules\\babel-register\\lib\\node.js:144:5)\n                    at Object.require.extensions.<computed> [as .js] (C:\\PROTRACTOR\\ProtractorPageObject\\node_modules\\babel-register\\lib\\node.js:154:7)\n                    at Module.load (internal/modules/cjs/loader.js:985:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testMethod",
+    "value" : "LOB Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "365932812b0e4b1e",
+      "status" : "failed",
+      "statusDetails" : "Failed: Unknown error",
+      "time" : {
+        "start" : 1600785916676,
+        "stop" : 1600785949108,
+        "duration" : 32432
+      }
+    }, {
+      "uid" : "dcc81d461744631d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600502327431,
+        "stop" : 1600502590268,
+        "duration" : 262837
+      }
+    }, {
+      "uid" : "a3b228b6c8182846",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600502011117,
+        "stop" : 1600502065635,
+        "duration" : 54518
+      }
+    }, {
+      "uid" : "b29f043812a4ee57",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such alert\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600501811598,
+        "stop" : 1600501862406,
+        "duration" : 50808
+      }
+    }, {
+      "uid" : "ed4a9255d5506afd",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such alert\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600501700465,
+        "stop" : 1600501748618,
+        "duration" : 48153
+      }
+    }, {
+      "uid" : "677b18731dc4ca2c",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such alert\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600501338248,
+        "stop" : 1600501389101,
+        "duration" : 50853
+      }
+    }, {
+      "uid" : "99939c67bc948b4f",
+      "status" : "failed",
+      "statusDetails" : "WebDriverError: chrome not reachable\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600501182867,
+        "stop" : 1600501249006,
+        "duration" : 66139
+      }
+    }, {
+      "uid" : "47afcced3bced122",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600499048732,
+        "stop" : 1600499317169,
+        "duration" : 268437
+      }
+    }, {
+      "uid" : "e66966a05c9c9dae",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, div#ctl00_PlaceHolderMain_ctl02_PickerOwnerGroupMembers_upLevelDiv.ms-inputuserfield.ms-inputBox)",
+      "time" : {
+        "start" : 1600498296281,
+        "stop" : 1600498504402,
+        "duration" : 208121
+      }
+    }, {
+      "uid" : "efdb0007149aa8d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl02_PickerOwnerGroupMembers_upLevelDiv)",
+      "time" : {
+        "start" : 1600497457740,
+        "stop" : 1600497773698,
+        "duration" : 315958
+      }
+    }, {
+      "uid" : "524f8a1483a169de",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl02_PickerOwnerGroupMembers_upLevelDiv)",
+      "time" : {
+        "start" : 1600496656666,
+        "stop" : 1600496937351,
+        "duration" : 280685
+      }
+    }, {
+      "uid" : "38a62fca60a7ffe4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl02_PickerOwnerGroupMembers_upLevelDiv)",
+      "time" : {
+        "start" : 1600496231537,
+        "stop" : 1600496561514,
+        "duration" : 329977
+      }
+    }, {
+      "uid" : "8bc2868ba9164cb4",
+      "status" : "failed",
+      "statusDetails" : "Failed: element.sendKeys is not a function",
+      "time" : {
+        "start" : 1600495813553,
+        "stop" : 1600496048330,
+        "duration" : 234777
+      }
+    }, {
+      "uid" : "3014977d015b7836",
+      "status" : "failed",
+      "statusDetails" : "TimeoutError: Wait timed out after 80007ms",
+      "time" : {
+        "start" : 1600495229858,
+        "stop" : 1600495577626,
+        "duration" : 347768
+      }
+    }, {
+      "uid" : "deed9460997cf6db",
+      "status" : "failed",
+      "statusDetails" : "TimeoutError: Wait timed out after 80015ms",
+      "time" : {
+        "start" : 1600493510043,
+        "stop" : 1600493990660,
+        "duration" : 480617
+      }
+    }, {
+      "uid" : "435a3fd0c32ee3a7",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1600493030746,
+        "stop" : 1600493316669,
+        "duration" : 285923
+      }
+    }, {
+      "uid" : "633a10fecaa8ae7d",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1600492521122,
+        "stop" : 1600492973720,
+        "duration" : 452598
+      }
+    }, {
+      "uid" : "3184269554530bc5",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1600491994849,
+        "stop" : 1600492298754,
+        "duration" : 303905
+      }
+    }, {
+      "uid" : "c5bb4e728437f51c",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1600491337450,
+        "stop" : 1600491634656,
+        "duration" : 297206
+      }
+    }, {
+      "uid" : "28c9189a176c80db",
+      "status" : "failed",
+      "statusDetails" : "Failed: Invalid locator",
+      "time" : {
+        "start" : 1600491162127,
+        "stop" : 1600491242779,
+        "duration" : 80652
+      }
+    }, {
+      "uid" : "357ae05ea85fae57",
+      "status" : "failed",
+      "statusDetails" : "Failed: Invalid locator",
+      "time" : {
+        "start" : 1600490787669,
+        "stop" : 1600490876924,
+        "duration" : 89255
+      }
+    }, {
+      "uid" : "2c33f75c91c4ae6d",
+      "status" : "failed",
+      "statusDetails" : "TimeoutError: Wait timed out after 80006ms",
+      "time" : {
+        "start" : 1600490402032,
+        "stop" : 1600490528130,
+        "duration" : 126098
+      }
+    }, {
+      "uid" : "6d9ee66261e75a3d",
+      "status" : "failed",
+      "statusDetails" : "TimeoutError: Wait timed out after 80041ms",
+      "time" : {
+        "start" : 1600490047489,
+        "stop" : 1600490171387,
+        "duration" : 123898
+      }
+    }, {
+      "uid" : "8e49bb40653a2a39",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600489873337,
+        "stop" : 1600489917323,
+        "duration" : 43986
+      }
+    }, {
+      "uid" : "cd024c6a50bbafdd",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600489688871,
+        "stop" : 1600489730187,
+        "duration" : 41316
+      }
+    }, {
+      "uid" : "7726af85f857bc75",
+      "status" : "failed",
+      "statusDetails" : "NoSuchWindowError: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600489548608,
+        "stop" : 1600489625412,
+        "duration" : 76804
+      }
+    }, {
+      "uid" : "83540851b969954a",
+      "status" : "failed",
+      "statusDetails" : "TimeoutError: Wait timed out after 80003ms",
+      "time" : {
+        "start" : 1600489337685,
+        "stop" : 1600489460557,
+        "duration" : 122872
+      }
+    }, {
+      "uid" : "dda342b1fb698856",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Self-serviced LOB site collection)",
+      "time" : {
+        "start" : 1600489075217,
+        "stop" : 1600489153515,
+        "duration" : 78298
+      }
+    }, {
+      "uid" : "9ac1c800e160f0c9",
+      "status" : "failed",
+      "statusDetails" : "Failed: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600450701897,
+        "stop" : 1600450788333,
+        "duration" : 86436
+      }
+    }, {
+      "uid" : "7b1be60783146513",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600450426281,
+        "stop" : 1600450468591,
+        "duration" : 42310
+      }
+    }, {
+      "uid" : "d618dd51dc10cbbb",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600450044588,
+        "stop" : 1600450084743,
+        "duration" : 40155
+      }
+    }, {
+      "uid" : "b8ccb99f10766245",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600449797057,
+        "stop" : 1600449840139,
+        "duration" : 43082
+      }
+    }, {
+      "uid" : "bced0e2a48399386",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600449507390,
+        "stop" : 1600449549876,
+        "duration" : 42486
+      }
+    }, {
+      "uid" : "64f0a58b86b1d78",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600449430784,
+        "stop" : 1600449439927,
+        "duration" : 9143
+      }
+    }, {
+      "uid" : "bd3db81507a4c754",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600449290430,
+        "stop" : 1600449330370,
+        "duration" : 39940
+      }
+    }, {
+      "uid" : "7707f11ad8bf8291",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, td[class$='FirstCell'])",
+      "time" : {
+        "start" : 1600449071167,
+        "stop" : 1600449105102,
+        "duration" : 33935
+      }
+    }, {
+      "uid" : "c3909a9cdec4d731",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600448949361,
+        "stop" : 1600448984296,
+        "duration" : 34935
+      }
+    }, {
+      "uid" : "3b3005412f2e92bd",
+      "status" : "failed",
+      "statusDetails" : "UnexpectedAlertOpenError: unexpected alert open: {Alert text : Are you sure you want to send the item(s) to the site Recycle Bin?}\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600448537393,
+        "stop" : 1600448578859,
+        "duration" : 41466
+      }
+    }, {
+      "uid" : "45bf07cdc7021f35",
+      "status" : "failed",
+      "statusDetails" : "NoSuchWindowError: no such window: window was already closed\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600448175512,
+        "stop" : 1600448244745,
+        "duration" : 69233
+      }
+    }, {
+      "uid" : "37cbcd9f1b97a2fc",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600448085530,
+        "stop" : 1600448124393,
+        "duration" : 38863
+      }
+    }, {
+      "uid" : "a5c03272a66dfe53",
+      "status" : "failed",
+      "statusDetails" : "NoSuchWindowError: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600447880796,
+        "stop" : 1600447930778,
+        "duration" : 49982
+      }
+    }, {
+      "uid" : "92bb4e5e1f695ff6",
+      "status" : "failed",
+      "statusDetails" : "Failed: LOBPage.lobfirstCell is not a function",
+      "time" : {
+        "start" : 1600447795048,
+        "stop" : 1600447833557,
+        "duration" : 38509
+      }
+    }, {
+      "uid" : "e62976b0d1a5ffcc",
+      "status" : "failed",
+      "statusDetails" : "NoSuchWindowError: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600447652147,
+        "stop" : 1600447697456,
+        "duration" : 45309
+      }
+    }, {
+      "uid" : "dfa7a60e8cb3578b",
+      "status" : "failed",
+      "statusDetails" : "NoSuchWindowError: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600447424790,
+        "stop" : 1600447483817,
+        "duration" : 59027
+      }
+    }, {
+      "uid" : "d0077d5d682a47c4",
+      "status" : "failed",
+      "statusDetails" : "NoSuchWindowError: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600447329773,
+        "stop" : 1600447378472,
+        "duration" : 48699
+      }
+    }, {
+      "uid" : "846a75a8d39e1f87",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Delete Item)",
+      "time" : {
+        "start" : 1600446540426,
+        "stop" : 1600446572770,
+        "duration" : 32344
+      }
+    }, {
+      "uid" : "e1216d8aca57fffe",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Delete Item)",
+      "time" : {
+        "start" : 1600446313315,
+        "stop" : 1600446346163,
+        "duration" : 32848
+      }
+    }, {
+      "uid" : "fdffeaf88c3b4ffd",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Delete Item)",
+      "time" : {
+        "start" : 1600444037158,
+        "stop" : 1600444067308,
+        "duration" : 30150
+      }
+    }, {
+      "uid" : "b63c608f7627e3ab",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[@title='EH+B Global'])",
+      "time" : {
+        "start" : 1600443752764,
+        "stop" : 1600443778260,
+        "duration" : 25496
+      }
+    }, {
+      "uid" : "e04461ab89578126",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[@title='EH+B Global'])",
+      "time" : {
+        "start" : 1600443592012,
+        "stop" : 1600443625239,
+        "duration" : 33227
+      }
+    }, {
+      "uid" : "31a557026e3f260a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[@title='EH+B Global'])",
+      "time" : {
+        "start" : 1600443351671,
+        "stop" : 1600443378050,
+        "duration" : 26379
+      }
+    }, {
+      "uid" : "84eebe04b5965720",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600442912658,
+        "stop" : 1600442943519,
+        "duration" : 30861
+      }
+    }, {
+      "uid" : "4aa2ba41f6bc7639",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl02_PickerOwnerGroupMembers_upLevelDiv)",
+      "time" : {
+        "start" : 1600441849766,
+        "stop" : 1600442037322,
+        "duration" : 187556
+      }
+    }, {
+      "uid" : "f08028c4fbb82b3e",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1600441153880,
+        "stop" : 1600441385572,
+        "duration" : 231692
+      }
+    }, {
+      "uid" : "5fea3306cb6332bc",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_lnkSite)",
+      "time" : {
+        "start" : 1600439973414,
+        "stop" : 1600440167866,
+        "duration" : 194452
+      }
+    }, {
+      "uid" : "ae4bc5c52188d01c",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600439663705,
+        "stop" : 1600439670480,
+        "duration" : 6775
+      }
+    }, {
+      "uid" : "fba197bbf1407f51",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600439610888,
+        "stop" : 1600439616956,
+        "duration" : 6068
+      }
+    }, {
+      "uid" : "ea6ec6750eaa86dd",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ddlSiteTypeValue)",
+      "time" : {
+        "start" : 1600438829523,
+        "stop" : 1600438982277,
+        "duration" : 152754
+      }
+    }, {
+      "uid" : "1dc2965b8da6df09",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ddlSiteTypeValue)",
+      "time" : {
+        "start" : 1600438278314,
+        "stop" : 1600438421802,
+        "duration" : 143488
+      }
+    }, {
+      "uid" : "a91bc2601127adc1",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ddlSiteTypeValue)",
+      "time" : {
+        "start" : 1600437779525,
+        "stop" : 1600437935083,
+        "duration" : 155558
+      }
+    }, {
+      "uid" : "2625ca7f74cd61d2",
+      "status" : "failed",
+      "statusDetails" : "Failed: Cannot read property 'visibilityOf' of undefined",
+      "time" : {
+        "start" : 1600437327632,
+        "stop" : 1600437462809,
+        "duration" : 135177
+      }
+    }, {
+      "uid" : "1a68ac28f70f93bd",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ButtonSection_RptControls_BtnSubmit)",
+      "time" : {
+        "start" : 1600436503683,
+        "stop" : 1600436646694,
+        "duration" : 143011
+      }
+    }, {
+      "uid" : "3ac4a6aad9c34f6f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ButtonSection_RptControls_BtnSubmit)",
+      "time" : {
+        "start" : 1600436225449,
+        "stop" : 1600436336435,
+        "duration" : 110986
+      }
+    }, {
+      "uid" : "3e421a884bba67f2",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600435887803,
+        "stop" : 1600435961332,
+        "duration" : 73529
+      }
+    }, {
+      "uid" : "6e79bf4db96d1b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600434254655,
+        "stop" : 1600434285979,
+        "duration" : 31324
+      }
+    }, {
+      "uid" : "90f9142a5bbacfcd",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl00_ctl01_TxtTitle)",
+      "time" : {
+        "start" : 1600434145016,
+        "stop" : 1600434171481,
+        "duration" : 26465
+      }
+    }, {
+      "uid" : "44e251f59edd4e83",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl00_ctl01_TxtTitle)",
+      "time" : {
+        "start" : 1600433969645,
+        "stop" : 1600434002677,
+        "duration" : 33032
+      }
+    }, {
+      "uid" : "3594c3176cb1553d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600433363490,
+        "stop" : 1600433393413,
+        "duration" : 29923
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2e032fc6edaebdda.json",
+  "parameterValues" : [ ]
+}

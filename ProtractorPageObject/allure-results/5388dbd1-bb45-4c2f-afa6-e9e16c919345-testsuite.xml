@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600502011116' stop='1600502065639'>
+    <name>Creating LOB</name>
+    <title>Creating LOB</title>
+    <test-cases>
+        <test-case start='1600502011117' status='passed' stop='1600502065635'>
+            <name>LOB Creation</name>
+            <title>LOB Creation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5fd9dea0-9138-4739-b954-51e05fd522a4-attachment.png' type='image/png' size='11567'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

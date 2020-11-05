@@ -1,0 +1,62 @@
+{
+  "uid" : "d7eeedfdade95634",
+  "name" : "Frame Handling",
+  "fullName" : "Iframe Handling.Frame Handling",
+  "historyId" : "cc8915bf469f3a04f6f2f893a0201348",
+  "time" : {
+    "start" : 1601021917727,
+    "stop" : 1601021922890,
+    "duration" : 5163
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "19a04ee8fdcaedc0",
+      "name" : "Screenshot",
+      "source" : "19a04ee8fdcaedc0.png",
+      "type" : "image/png",
+      "size" : 51707
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Iframe Handling"
+  }, {
+    "name" : "testClass",
+    "value" : "Iframe Handling"
+  }, {
+    "name" : "testMethod",
+    "value" : "Frame Handling"
+  }, {
+    "name" : "package",
+    "value" : "Iframe Handling"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7eeedfdade95634.json",
+  "parameterValues" : [ ]
+}

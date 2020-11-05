@@ -1,0 +1,177 @@
+{
+  "uid" : "47e4474971109482",
+  "name" : "Teamsite West Creation",
+  "fullName" : "Creating Teamsite West.Teamsite West Creation",
+  "historyId" : "c505d22f5a6cb7e32e16819248a5bcfa",
+  "time" : {
+    "start" : 1601727491538,
+    "stop" : 1601727634559,
+    "duration" : 143021
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4601f26fdf55c876",
+      "name" : "Screenshot",
+      "source" : "4601f26fdf55c876.png",
+      "type" : "image/png",
+      "size" : 47774
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testMethod",
+    "value" : "Teamsite West Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6b7aeab71206cf7a",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.121)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'INGGNED890P882', ip: '10.3.50.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1601727265227,
+        "stop" : 1601727283063,
+        "duration" : 17836
+      }
+    }, {
+      "uid" : "2dc5169abcaa3325",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Service Unavailable' to be 'Home - Team Sites'.",
+      "time" : {
+        "start" : 1601019756743,
+        "stop" : 1601019758907,
+        "duration" : 2164
+      }
+    }, {
+      "uid" : "8ae1709c74f21657",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Service Unavailable' to be 'Home - Team Sites'.",
+      "time" : {
+        "start" : 1601016257860,
+        "stop" : 1601016260428,
+        "duration" : 2568
+      }
+    }, {
+      "uid" : "2797927012ab328e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600424635948,
+        "stop" : 1600424790151,
+        "duration" : 154203
+      }
+    }, {
+      "uid" : "3843b92445144b9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600423972623,
+        "stop" : 1600424117354,
+        "duration" : 144731
+      }
+    }, {
+      "uid" : "f1de32509ad84367",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 5003ms",
+      "time" : {
+        "start" : 1600423822447,
+        "stop" : 1600423852122,
+        "duration" : 29675
+      }
+    }, {
+      "uid" : "1305ddb8323c3ae3",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'urlContains' of undefined",
+      "time" : {
+        "start" : 1600423751829,
+        "stop" : 1600423752115,
+        "duration" : 286
+      }
+    }, {
+      "uid" : "374e1ec6e1a7ef23",
+      "status" : "failed",
+      "statusDetails" : "Failed: element not interactable\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600423573598,
+        "stop" : 1600423599385,
+        "duration" : 25787
+      }
+    }, {
+      "uid" : "2d66aac55534763a",
+      "status" : "failed",
+      "statusDetails" : "Failed: element not interactable\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600423028097,
+        "stop" : 1600423058261,
+        "duration" : 30164
+      }
+    }, {
+      "uid" : "988ab9026a699f85",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600420840842,
+        "stop" : 1600420882799,
+        "duration" : 41957
+      }
+    }, {
+      "uid" : "cc02f08039db0a8f",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600420660593,
+        "stop" : 1600420666869,
+        "duration" : 6276
+      }
+    }, {
+      "uid" : "6db135ed828173da",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600420642247,
+        "stop" : 1600420649469,
+        "duration" : 7222
+      }
+    }, {
+      "uid" : "c2a996a9db75806a",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.102)\n                  (Driver info: chromedriver=85.0.4183.38 (9047dbc2c693f044042bbec5c91401c708c7c26a-refs/branch-heads/4183@{#779}),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1600420580524,
+        "stop" : 1600420629237,
+        "duration" : 48713
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47e4474971109482.json",
+  "parameterValues" : [ ]
+}

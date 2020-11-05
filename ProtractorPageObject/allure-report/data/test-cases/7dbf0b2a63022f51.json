@@ -1,0 +1,115 @@
+{
+  "uid" : "7dbf0b2a63022f51",
+  "name" : "encountered a declaration exception",
+  "fullName" : "Creating LOB.encountered a declaration exception",
+  "historyId" : "7df095b99e266a8867d0d0da04a60f41",
+  "time" : {
+    "start" : 1600439754316,
+    "stop" : 1600439754609,
+    "duration" : 293
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: Cannot read property 'bind' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'bind' of undefined\n                    at ProtractorExpectedConditions.presenceOf (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:341:40)\n                    at ProtractorExpectedConditions.visibilityOf (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:381:30)\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\LOBCreationPage.js:12:21)\n                    at Module._compile (internal/modules/cjs/loader.js:778:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n                    at Module.load (internal/modules/cjs/loader.js:653:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n                    at Function.Module._load (internal/modules/cjs/loader.js:585:3)\n                    at Module.require (internal/modules/cjs/loader.js:692:17)\n                    at require (internal/modules/cjs/helpers.js:25:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "TypeError: Cannot read property 'bind' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'bind' of undefined\n                    at ProtractorExpectedConditions.presenceOf (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:341:40)\n                    at ProtractorExpectedConditions.visibilityOf (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:381:30)\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\LOBCreationPage.js:12:21)\n                    at Module._compile (internal/modules/cjs/loader.js:778:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n                    at Module.load (internal/modules/cjs/loader.js:653:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n                    at Function.Module._load (internal/modules/cjs/loader.js:585:3)\n                    at Module.require (internal/modules/cjs/loader.js:692:17)\n                    at require (internal/modules/cjs/helpers.js:25:18)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a0238a71f811d81",
+      "name" : "Screenshot",
+      "source" : "9a0238a71f811d81.png",
+      "type" : "image/png",
+      "size" : 4990
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testMethod",
+    "value" : "encountered a declaration exception"
+  }, {
+    "name" : "package",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "48238937d45a7aeb",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'bind' of undefined",
+      "time" : {
+        "start" : 1600439559347,
+        "stop" : 1600439559618,
+        "duration" : 271
+      }
+    }, {
+      "uid" : "995da3d9277876a0",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'bind' of undefined",
+      "time" : {
+        "start" : 1600439521658,
+        "stop" : 1600439521947,
+        "duration" : 289
+      }
+    }, {
+      "uid" : "74e808e24f6624f1",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'bind' of undefined",
+      "time" : {
+        "start" : 1600439327190,
+        "stop" : 1600439327474,
+        "duration" : 284
+      }
+    }, {
+      "uid" : "fbdd6f08222c3277",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'bind' of undefined",
+      "time" : {
+        "start" : 1600439286388,
+        "stop" : 1600439286687,
+        "duration" : 299
+      }
+    }, {
+      "uid" : "201e78fa2ee15913",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'elementToBeClickable' of undefined",
+      "time" : {
+        "start" : 1600437752331,
+        "stop" : 1600437752605,
+        "duration" : 274
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7dbf0b2a63022f51.json",
+  "parameterValues" : [ ]
+}

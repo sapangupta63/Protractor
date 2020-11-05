@@ -1,0 +1,60 @@
+{
+  "uid" : "fe4c26a0f51de18f",
+  "name" : "Teamsite East Creation",
+  "fullName" : "Creating Teamsite East.Teamsite East Creation",
+  "historyId" : "da74630d269a7a2c07d750bba301eb94",
+  "time" : {
+    "start" : 1600424790161,
+    "stop" : 1600424917405,
+    "duration" : 127244
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ba0e05ae1f2f350d",
+      "name" : "Screenshot",
+      "source" : "ba0e05ae1f2f350d.png",
+      "type" : "image/png",
+      "size" : 47774
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating Teamsite East"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating Teamsite East"
+  }, {
+    "name" : "testMethod",
+    "value" : "Teamsite East Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating Teamsite East"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe4c26a0f51de18f.json",
+  "parameterValues" : [ ]
+}

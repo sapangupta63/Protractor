@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="2.609">
+ <testsuite name="Iframe Handling" timestamp="2020-09-12T12:56:10" hostname="localhost" time="2.609" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Iframe Handling" name="Frame Handling" time="2.599" />
+ </testsuite>
+</testsuites>

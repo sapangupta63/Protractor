@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600439754315' stop='1600439754612'>
+    <name>Creating LOB</name>
+    <title>Creating LOB</title>
+    <test-cases>
+        <test-case start='1600439754316' status='failed' stop='1600439754609'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5d937bba-f1af-47f7-b5b2-a34d6544b580-attachment.png' type='image/png' size='4990'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'bind' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'bind' of undefined
+                    at ProtractorExpectedConditions.presenceOf (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\expectedConditions.js:341:40)
+                    at ProtractorExpectedConditions.visibilityOf (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\expectedConditions.js:381:30)
+                    at Object.&lt;anonymous> (C:\PROTRACTOR\ProtractorPageObject\pages\LOBCreationPage.js:12:21)
+                    at Module._compile (internal/modules/cjs/loader.js:778:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+                    at Module.load (internal/modules/cjs/loader.js:653:32)
+                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+                    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+                    at Module.require (internal/modules/cjs/loader.js:692:17)
+                    at require (internal/modules/cjs/helpers.js:25:18)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

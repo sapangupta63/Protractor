@@ -1,0 +1,60 @@
+{
+  "uid" : "a3b228b6c8182846",
+  "name" : "LOB Creation",
+  "fullName" : "Creating LOB.LOB Creation",
+  "historyId" : "b8e9c73aacf101be15fe941cebceaaa2",
+  "time" : {
+    "start" : 1600502011117,
+    "stop" : 1600502065635,
+    "duration" : 54518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7264c32491767cfd",
+      "name" : "Screenshot",
+      "source" : "7264c32491767cfd.png",
+      "type" : "image/png",
+      "size" : 11567
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testMethod",
+    "value" : "LOB Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3b228b6c8182846.json",
+  "parameterValues" : [ ]
+}

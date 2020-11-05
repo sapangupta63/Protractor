@@ -1,0 +1,64 @@
+{
+  "uid" : "48238937d45a7aeb",
+  "name" : "encountered a declaration exception",
+  "fullName" : "Creating LOB.encountered a declaration exception",
+  "historyId" : "7df095b99e266a8867d0d0da04a60f41",
+  "time" : {
+    "start" : 1600439559347,
+    "stop" : 1600439559618,
+    "duration" : 271
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: Cannot read property 'bind' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'bind' of undefined\n                    at ProtractorExpectedConditions.presenceOf (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:341:40)\n                    at ProtractorExpectedConditions.elementToBeSelected (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:418:30)\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\LOBCreationPage.js:12:21)\n                    at Module._compile (internal/modules/cjs/loader.js:778:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n                    at Module.load (internal/modules/cjs/loader.js:653:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n                    at Function.Module._load (internal/modules/cjs/loader.js:585:3)\n                    at Module.require (internal/modules/cjs/loader.js:692:17)\n                    at require (internal/modules/cjs/helpers.js:25:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "TypeError: Cannot read property 'bind' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'bind' of undefined\n                    at ProtractorExpectedConditions.presenceOf (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:341:40)\n                    at ProtractorExpectedConditions.elementToBeSelected (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\expectedConditions.js:418:30)\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\LOBCreationPage.js:12:21)\n                    at Module._compile (internal/modules/cjs/loader.js:778:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n                    at Module.load (internal/modules/cjs/loader.js:653:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n                    at Function.Module._load (internal/modules/cjs/loader.js:585:3)\n                    at Module.require (internal/modules/cjs/loader.js:692:17)\n                    at require (internal/modules/cjs/helpers.js:25:18)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "229c377dfc34f796",
+      "name" : "Screenshot",
+      "source" : "229c377dfc34f796.png",
+      "type" : "image/png",
+      "size" : 4990
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testMethod",
+    "value" : "encountered a declaration exception"
+  }, {
+    "name" : "package",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48238937d45a7aeb.json",
+  "parameterValues" : [ ]
+}

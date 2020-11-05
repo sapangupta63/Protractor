@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601024233809' stop='1601024238594'>
+    <name>Iframe Handling</name>
+    <title>Iframe Handling</title>
+    <test-cases>
+        <test-case start='1601024233811' status='passed' stop='1601024238591'>
+            <name>Frame Handling</name>
+            <title>Frame Handling</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='97212423-9eb3-4a2c-a41e-b4d05c955089-attachment.png' type='image/png' size='50584'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

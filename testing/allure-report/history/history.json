@@ -1,0 +1,60 @@
+{
+  "6759e7fd4d222a97c7bebd0ae804cbe0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50688dc5be7f8a3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601021917728,
+        "stop" : 1601021925221,
+        "duration" : 7493
+      }
+    } ]
+  },
+  "495446788e7013a756bbbbf788506b4c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "718c53b624ffc359",
+      "status" : "failed",
+      "statusDetails" : "NoSuchSessionError: invalid session id",
+      "time" : {
+        "start" : 1601021933423,
+        "stop" : 1601021942946,
+        "duration" : 9523
+      }
+    } ]
+  },
+  "cc8915bf469f3a04f6f2f893a0201348" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7eeedfdade95634",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601021917727,
+        "stop" : 1601021922890,
+        "duration" : 5163
+      }
+    } ]
+  }
+}

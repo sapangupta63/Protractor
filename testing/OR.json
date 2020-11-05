@@ -1,0 +1,28 @@
+{
+
+"testsiteurl":"http://www.way2automation.com/angularjs-protractor/calc/",
+"model":
+{
+
+    "model1":"first",
+    "model2":"second"
+
+},
+"buttontext":
+{
+    "btnText":"Go!"
+},
+"values":
+{
+    "value1":"2",
+    "value2":"3",
+
+
+    "value3":"9",
+    "value4":"1"
+
+}
+
+
+
+}

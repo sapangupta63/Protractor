@@ -1,0 +1,64 @@
+{
+  "uid" : "201e78fa2ee15913",
+  "name" : "encountered a declaration exception",
+  "fullName" : "Creating LOB.encountered a declaration exception",
+  "historyId" : "7df095b99e266a8867d0d0da04a60f41",
+  "time" : {
+    "start" : 1600437752331,
+    "stop" : 1600437752605,
+    "duration" : 274
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: Cannot read property 'elementToBeClickable' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'elementToBeClickable' of undefined\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\LOBCreationPage.js:8:20)\n                    at Module._compile (internal/modules/cjs/loader.js:778:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n                    at Module.load (internal/modules/cjs/loader.js:653:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n                    at Function.Module._load (internal/modules/cjs/loader.js:585:3)\n                    at Module.require (internal/modules/cjs/loader.js:692:17)\n                    at require (internal/modules/cjs/helpers.js:25:18)\n                    at Suite.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\LOBCreation_spec.js:7:13)\n                    at addSpecsToSuite (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "TypeError: Cannot read property 'elementToBeClickable' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'elementToBeClickable' of undefined\n                    at Object.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\pages\\LOBCreationPage.js:8:20)\n                    at Module._compile (internal/modules/cjs/loader.js:778:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n                    at Module.load (internal/modules/cjs/loader.js:653:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n                    at Function.Module._load (internal/modules/cjs/loader.js:585:3)\n                    at Module.require (internal/modules/cjs/loader.js:692:17)\n                    at require (internal/modules/cjs/helpers.js:25:18)\n                    at Suite.<anonymous> (C:\\PROTRACTOR\\ProtractorPageObject\\test_spec\\LOBCreation_spec.js:7:13)\n                    at addSpecsToSuite (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1d50a94ed73a21c",
+      "name" : "Screenshot",
+      "source" : "e1d50a94ed73a21c.png",
+      "type" : "image/png",
+      "size" : 4990
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "testMethod",
+    "value" : "encountered a declaration exception"
+  }, {
+    "name" : "package",
+    "value" : "Creating LOB"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "201e78fa2ee15913.json",
+  "parameterValues" : [ ]
+}

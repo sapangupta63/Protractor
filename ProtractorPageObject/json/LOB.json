@@ -1,0 +1,46 @@
+{
+    "testsiteurl":"http://sites-qa.mercer.com/SitePages/Home.aspx",
+    "locators":
+    
+{
+    "LOBCreationpage":
+    {
+        "LOBHover":"#js-listviewthead-WPQ3 > tr > th:nth-child(3) > div:nth-child(2) > div > a",
+         "LOBLink": "//a[@title='EH+B Global']",
+         "LOBFirstcell": "td[class$='FirstCell']",
+         "LOBRibbon": "li[title='Items'] > a > span:nth-child(1)",
+         "LOBDelete": "//span[contains(text(),'Delete Item')]",
+        "LOBlinktext":"Self-serviced LOB site collection",
+        "LOBTitle":"#ctl00_PlaceHolderMain_ctl00_ctl01_TxtTitle",
+        "LOBURL":"#ctl00_PlaceHolderMain_ctl01_ctl03_TxtSiteName",
+        "LOBTemplate":"Mercer",
+        "LOBValue":"#ctl00_PlaceHolderMain_ddlSiteTypeValue",
+        "LOBV2":"#ctl00_PlaceHolderMain_InputFormTemplatePickerControl_ctl00_ctl01_LbWebTemplate > option:nth-child(3)",
+        "LOBCreate":"#ctl00_PlaceHolderMain_ctl02_RptControls_BtnCreate",
+        "LOBSubmit":"#ctl00_PlaceHolderMain_ButtonSection_RptControls_BtnSubmit",
+        "LOBUpdate":"#ctl00_PlaceHolderMain_btnUpdate",
+        "NEWLOB":"#ctl00_PlaceHolderMain_lnkSite",
+        "OWNERLOB":"#ctl00_PlaceHolderMain_ctl02_PickerOwnerGroupMembers_upLevelDiv",
+    "testdata":
+    {
+
+        "LOB":"EH+B Global",
+        "Owner": "sapan-gupta"
+       
+
+    }
+
+    
+},
+"LOBDeletion":
+{
+      "LOBSetting":"span.ms-siteactions-normal",
+      "LOBSitesetting":"a#mp1_0_7_Anchor.ms-core-menu-link",
+      "DeleteLOBName": "Delete this site",
+      "DeleteLOBBtn": "//input[@value='Delete']",
+      "DeleteLOBtext":"#DeltaPlaceHolderMain"
+}
+
+
+}
+}

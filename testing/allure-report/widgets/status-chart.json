@@ -1,0 +1,31 @@
+[ {
+  "uid" : "50688dc5be7f8a3f",
+  "name" : "checkobx",
+  "time" : {
+    "start" : 1601021917728,
+    "stop" : 1601021925221,
+    "duration" : 7493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "718c53b624ffc359",
+  "name" : "Handling windows",
+  "time" : {
+    "start" : 1601021933423,
+    "stop" : 1601021942946,
+    "duration" : 9523
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7eeedfdade95634",
+  "name" : "Frame Handling",
+  "time" : {
+    "start" : 1601021917727,
+    "stop" : 1601021922890,
+    "duration" : 5163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

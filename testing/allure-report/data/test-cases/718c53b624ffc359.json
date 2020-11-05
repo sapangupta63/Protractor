@@ -1,0 +1,52 @@
+{
+  "uid" : "718c53b624ffc359",
+  "name" : "Handling windows",
+  "fullName" : "Hnadling Tab.Handling windows",
+  "historyId" : "495446788e7013a756bbbbf788506b4c",
+  "time" : {
+    "start" : 1601021933423,
+    "stop" : 1601021942946,
+    "duration" : 9523
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "NoSuchSessionError: invalid session id",
+  "statusTrace" : "NoSuchSessionError: invalid session id\n                    at Object.throwDecodedError (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:514:15)\n                    at parseHttpResponse (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:519:13)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                From: Task: WebDriver.takeScreenshot()\n                    at Driver.schedule (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n                    at Driver.takeScreenshot (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:1085:17)\n                    at run (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:59:33)\n                    at ProtractorBrowser.to.<computed> [as takeScreenshot] (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:67:16)\n                    at UserContext.<anonymous> (C:\\PROTRACTOR\\testing\\conf.js:109:13)\n                    at attempt (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\sapan-gupta\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Hnadling Tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Hnadling Tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling windows"
+  }, {
+    "name" : "package",
+    "value" : "Hnadling Tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "718c53b624ffc359.json",
+  "parameterValues" : [ ]
+}

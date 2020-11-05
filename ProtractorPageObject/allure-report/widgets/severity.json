@@ -1,0 +1,51 @@
+[ {
+  "uid" : "813c72e8b531956a",
+  "name" : "Teamsite East Creation",
+  "time" : {
+    "start" : 1601727634568,
+    "stop" : 1601727740083,
+    "duration" : 105515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e032fc6edaebdda",
+  "name" : "LOB Creation",
+  "time" : {
+    "start" : 1600785969191,
+    "stop" : 1600786002084,
+    "duration" : 32893
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "47e4474971109482",
+  "name" : "Teamsite West Creation",
+  "time" : {
+    "start" : 1601727491538,
+    "stop" : 1601727634559,
+    "duration" : 143021
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dbf0b2a63022f51",
+  "name" : "encountered a declaration exception",
+  "time" : {
+    "start" : 1600439754316,
+    "stop" : 1600439754609,
+    "duration" : 293
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdcf8ffb5fc25379",
+  "name" : "Teamsite APAC Creation",
+  "time" : {
+    "start" : 1601727740088,
+    "stop" : 1601727824576,
+    "duration" : 84488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

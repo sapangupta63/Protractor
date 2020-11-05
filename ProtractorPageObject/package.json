@@ -1,0 +1,41 @@
+{
+  "name": "protractorpageobject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "jest": {
+    "preset": "jest-puppeteer"
+  },
+  "scripts": {
+    "protractortest": "protractor conf.js",
+    "report": "allure generate allure-results --clean -o allure-report || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@reportportal/agent-js-jasmine": "^5.0.0",
+    "agent-js-jasmine": "^3.0.0",
+    "allure-commandline": "^2.13.0",
+    "protractor-beautiful-reporter": "^1.3.6",
+    "puppeteer": "^5.3.1",
+    "jest": "^26.4.2",
+    "@types/jest": "^24.0.18",
+    "jest-puppeteer": "^4.4.0"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "dotenv": "^8.2.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine2-protractor-utils": "^1.3.0",
+    "path": "^0.12.7",
+    "promise": "^7.0.4",
+    "protractor": "~5.4.2",
+    "protractor-html-reporter-2": "^1.0.4",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "winston": "^3.3.3",
+    "xlsx": "^0.16.7"
+  }
+}

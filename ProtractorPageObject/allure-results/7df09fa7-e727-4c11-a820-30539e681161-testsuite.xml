@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604602710531' stop='1604602713765'>
+    <name>Creating LOB</name>
+    <title>Creating LOB</title>
+    <test-cases>
+        <test-case start='1604602710532' status='failed' stop='1604602713762'>
+            <name>LOB Creation</name>
+            <title>LOB Creation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b0eef1ec-5706-48aa-a44d-b7e1a8281954-attachment.png' type='image/png' size='25404'/>
+            </attachments>
+            <failure>
+                <message>Failed: No element found using locator: By(css selector, #js-listviewthead-WPQ3 > tr > th:nth-child(3) > div:nth-child(2) > div > a)</message>
+                <stack-trace>NoSuchElementError: No element found using locator: By(css selector, #js-listviewthead-WPQ3 > tr > th:nth-child(3) > div:nth-child(2) > div > a)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:814:27
+                    at ManagedPromise.invokeCallback_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)Error
+                    at ElementArrayFinder.applyAction_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.&lt;computed> [as getId] (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.&lt;computed> [as getId] (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+                    at ActionSequence.mouseMove (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\actions.js:151:44)
+                    at LOBCreationpage.lobhover (C:\Users\sapan-gupta\Downloads\Projects\Protractor\Protractor\ProtractorPageObject\pages\LOBCreationPage.js:109:29)
+                    at UserContext.&lt;anonymous> (C:\Users\sapan-gupta\Downloads\Projects\Protractor\Protractor\ProtractorPageObject\test_spec\LOBCreationDeletion_spec.js:14:19)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                From: Task: Run it("LOB Creation") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\sapan-gupta\Downloads\Projects\Protractor\Protractor\ProtractorPageObject\test_spec\LOBCreationDeletion_spec.js:11:3)
+                    at addSpecsToSuite (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\sapan-gupta\Downloads\Projects\Protractor\Protractor\ProtractorPageObject\test_spec\LOBCreationDeletion_spec.js:8:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+                    at loader (C:\Users\sapan-gupta\Downloads\Projects\Protractor\Protractor\ProtractorPageObject\node_modules\babel-register\lib\node.js:144:5)
+                    at Object.require.extensions.&lt;computed> [as .js] (C:\Users\sapan-gupta\Downloads\Projects\Protractor\Protractor\ProtractorPageObject\node_modules\babel-register\lib\node.js:154:7)
+                    at Module.load (internal/modules/cjs/loader.js:985:32)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

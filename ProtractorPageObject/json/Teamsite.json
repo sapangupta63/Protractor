@@ -1,0 +1,50 @@
+{
+    "testsiteurl":"http://teamsites-qa.mercer.com/default.aspx",
+    "locators":
+    
+{
+    "GlobalTeamsiteHomepage":
+    {
+        "createTSBtnQA":"//img[@title='Create new team site']",
+        "createTSBtnUA":"//img[@alt='Create']"
+    },
+    "welcomepage":
+    {
+    "welcomenextbtn":"input.btnNextCls"
+    },
+    "languagepage":
+    {
+    "lnguagedropdown":"#TeamsiteWizard_Wizard1_ddlLNGLanguage",
+    "gropdropdown": "#TeamsiteWizard_Wizard1_ddlLNGLoB",
+    "regiondropdown":"#TeamsiteWizard_Wizard1_ddlTSLRegion",
+    "pmowner":"div#TeamsiteWizard_Wizard1_PEPrimarySiteCoordinator_upLevelDiv",
+    "bkowner":"div#TeamsiteWizard_Wizard1_PEBackupSiteCoordinator_upLevelDiv",
+    "chkbtn":"input#TeamsiteWizard_Wizard1_chkcontainssensitive",
+    "lnguagenextbtn":"input#TeamsiteWizard_Wizard1_StepNavigationTemplateContainerID_StepNextButton",
+    "rgnchkbtn":"input#TeamsiteWizard_Wizard1_chkTSLTerms",
+    "rgnnxtbtn":"#TeamsiteWizard_Wizard1_StepNavigationTemplateContainerID_StepNextButton",
+    "tsname":"#TeamsiteWizard_Wizard1_txtSNSitename",
+    "tsnextbtn":"#TeamsiteWizard_Wizard1_StepNavigationTemplateContainerID_StepNextButton",
+    "tsfinishbtn":"#TeamsiteWizard_Wizard1_FinishNavigationTemplateContainerID_FinishButton",
+    "usrName":"#mrcr_ursername",
+
+     "testdata":
+    {
+
+        "lang":"English",
+        "grp":"Finance",
+      "pmowner":"sapan-gupta@mercer.com",
+        "bkowner":"soumya-kamath@mercer.com",
+        "eastrgn":"Europe/Middle East/Africa",
+        "westrgn":"Global",
+        "apacrgn":"Asia/Pacific",
+         "TS":"TSProtract211"
+       
+
+    }
+    }
+}
+
+
+
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "a2fb3b3324b80976",
+  "name" : "Teamsite APAC Creation",
+  "fullName" : "Creating Teamsite APAC.Teamsite APAC Creation",
+  "historyId" : "8f1bbab57f6b76de2fabd388be3a6132",
+  "time" : {
+    "start" : 1600424917410,
+    "stop" : 1600425014960,
+    "duration" : 97550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cb0239e0ebf70708",
+      "name" : "Screenshot",
+      "source" : "cb0239e0ebf70708.png",
+      "type" : "image/png",
+      "size" : 47774
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating Teamsite APAC"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating Teamsite APAC"
+  }, {
+    "name" : "testMethod",
+    "value" : "Teamsite APAC Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating Teamsite APAC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2fb3b3324b80976.json",
+  "parameterValues" : [ ]
+}

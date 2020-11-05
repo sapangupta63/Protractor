@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601021917727' stop='1601021925223'>
+    <name>handling checkbox</name>
+    <title>handling checkbox</title>
+    <test-cases>
+        <test-case start='1601021917728' status='passed' stop='1601021925221'>
+            <name>checkobx</name>
+            <title>checkobx</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4f8faf2b-bf4a-4d01-ab36-123af4e95feb-attachment.png' type='image/png' size='156055'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600447795047' stop='1600447833559'>
+    <name>Creating LOB</name>
+    <title>Creating LOB</title>
+    <test-cases>
+        <test-case start='1600447795048' status='failed' stop='1600447833557'>
+            <name>LOB Creation</name>
+            <title>LOB Creation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='65512173-bd08-4e76-b19f-56fa804f56a8-attachment.png' type='image/png' size='84651'/>
+            </attachments>
+            <failure>
+                <message>Failed: LOBPage.lobfirstCell is not a function</message>
+                <stack-trace>TypeError: LOBPage.lobfirstCell is not a function
+                    at UserContext.&lt;anonymous> (C:\PROTRACTOR\ProtractorPageObject\test_spec\LOBCreation_spec.js:12:15)
+                    at process._tickCallback (internal/process/next_tick.js:68:7)
+                From: Task: Run it("LOB Creation") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at shutdownTask_.MicroTask (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\PROTRACTOR\ProtractorPageObject\test_spec\LOBCreation_spec.js:8:1)
+                    at addSpecsToSuite (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\PROTRACTOR\ProtractorPageObject\test_spec\LOBCreation_spec.js:6:1)
+                    at Module._compile (internal/modules/cjs/loader.js:778:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+                    at Module.load (internal/modules/cjs/loader.js:653:32)
+                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

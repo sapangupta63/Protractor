@@ -1,0 +1,62 @@
+{
+  "uid" : "50688dc5be7f8a3f",
+  "name" : "checkobx",
+  "fullName" : "handling checkbox.checkobx",
+  "historyId" : "6759e7fd4d222a97c7bebd0ae804cbe0",
+  "time" : {
+    "start" : 1601021917728,
+    "stop" : 1601021925221,
+    "duration" : 7493
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ea211a395ae6beb",
+      "name" : "Screenshot",
+      "source" : "5ea211a395ae6beb.png",
+      "type" : "image/png",
+      "size" : 156055
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "handling checkbox"
+  }, {
+    "name" : "testClass",
+    "value" : "handling checkbox"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkobx"
+  }, {
+    "name" : "package",
+    "value" : "handling checkbox"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50688dc5be7f8a3f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600434145015' stop='1600434171485'>
+    <name>Creating LOB</name>
+    <title>Creating LOB</title>
+    <test-cases>
+        <test-case start='1600434145016' status='failed' stop='1600434171481'>
+            <name>LOB Creation</name>
+            <title>LOB Creation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6b6242c9-570d-4f02-b528-652e0753978a-attachment.png' type='image/png' size='160317'/>
+            </attachments>
+            <failure>
+                <message>NoSuchElementError: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl00_ctl01_TxtTitle)</message>
+                <stack-trace>NoSuchElementError: No element found using locator: By(css selector, #ctl00_PlaceHolderMain_ctl00_ctl01_TxtTitle)
+                    at elementArrayFinder.getWebElements.then (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:814:27)
+                    at ManagedPromise.invokeCallback_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:68:7)Error
+                    at ElementArrayFinder.applyAction_ (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.(anonymous function).args [as sendKeys] (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.(anonymous function).args [as sendKeys] (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+                    at LOBCreationpage.lobTitle (C:\PROTRACTOR\ProtractorPageObject\pages\LOBCreationPage.js:62:60)
+                    at UserContext.&lt;anonymous> (C:\PROTRACTOR\ProtractorPageObject\test_spec\LOBCreation_spec.js:15:15)
+                    at process._tickCallback (internal/process/next_tick.js:68:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

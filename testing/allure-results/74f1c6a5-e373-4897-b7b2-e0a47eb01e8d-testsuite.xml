@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601021933422' stop='1601021942949'>
+    <name>Hnadling Tab</name>
+    <title>Hnadling Tab</title>
+    <test-cases>
+        <test-case start='1601021933423' status='failed' stop='1601021942946'>
+            <name>Handling windows</name>
+            <title>Handling windows</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>NoSuchSessionError: invalid session id</message>
+                <stack-trace>NoSuchSessionError: invalid session id
+                    at Object.throwDecodedError (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:514:15)
+                    at parseHttpResponse (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:519:13)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:441:30
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                From: Task: WebDriver.takeScreenshot()
+                    at Driver.schedule (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+                    at Driver.takeScreenshot (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1085:17)
+                    at run (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\browser.js:59:33)
+                    at ProtractorBrowser.to.&lt;computed> [as takeScreenshot] (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\built\browser.js:67:16)
+                    at UserContext.&lt;anonymous> (C:\PROTRACTOR\testing\conf.js:109:13)
+                    at attempt (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\sapan-gupta\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

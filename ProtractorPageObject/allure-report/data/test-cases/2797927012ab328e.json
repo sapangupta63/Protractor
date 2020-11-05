@@ -1,0 +1,60 @@
+{
+  "uid" : "2797927012ab328e",
+  "name" : "Teamsite West Creation",
+  "fullName" : "Creating Teamsite West.Teamsite West Creation",
+  "historyId" : "c505d22f5a6cb7e32e16819248a5bcfa",
+  "time" : {
+    "start" : 1600424635948,
+    "stop" : 1600424790151,
+    "duration" : 154203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5905c486da7f0e4e",
+      "name" : "Screenshot",
+      "source" : "5905c486da7f0e4e.png",
+      "type" : "image/png",
+      "size" : 37774
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "testMethod",
+    "value" : "Teamsite West Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating Teamsite West"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2797927012ab328e.json",
+  "parameterValues" : [ ]
+}

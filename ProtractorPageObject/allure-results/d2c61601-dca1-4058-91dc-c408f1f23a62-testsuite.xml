@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600424917410' stop='1600425014962'>
+    <name>Creating Teamsite APAC</name>
+    <title>Creating Teamsite APAC</title>
+    <test-cases>
+        <test-case start='1600424917410' status='passed' stop='1600425014960'>
+            <name>Teamsite APAC Creation</name>
+            <title>Teamsite APAC Creation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f13c1904-4bb4-4047-8154-e3956120c87f-attachment.png' type='image/png' size='47774'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

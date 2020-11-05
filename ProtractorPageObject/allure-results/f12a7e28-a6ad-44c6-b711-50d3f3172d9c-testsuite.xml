@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600424790161' stop='1600424917407'>
+    <name>Creating Teamsite East</name>
+    <title>Creating Teamsite East</title>
+    <test-cases>
+        <test-case start='1600424790161' status='passed' stop='1600424917405'>
+            <name>Teamsite East Creation</name>
+            <title>Teamsite East Creation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5f52fe18-117e-4a55-b3d5-48b8fd9fee3c-attachment.png' type='image/png' size='47774'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

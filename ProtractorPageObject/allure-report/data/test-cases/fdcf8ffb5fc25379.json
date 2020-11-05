@@ -1,0 +1,79 @@
+{
+  "uid" : "fdcf8ffb5fc25379",
+  "name" : "Teamsite APAC Creation",
+  "fullName" : "Creating Teamsite APAC.Teamsite APAC Creation",
+  "historyId" : "8f1bbab57f6b76de2fabd388be3a6132",
+  "time" : {
+    "start" : 1601727740088,
+    "stop" : 1601727824576,
+    "duration" : 84488
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1602b3b03c5185f5",
+      "name" : "Screenshot",
+      "source" : "1602b3b03c5185f5.png",
+      "type" : "image/png",
+      "size" : 47774
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Creating Teamsite APAC"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating Teamsite APAC"
+  }, {
+    "name" : "testMethod",
+    "value" : "Teamsite APAC Creation"
+  }, {
+    "name" : "package",
+    "value" : "Creating Teamsite APAC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c4f828327d515679",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=85.0.4183.121)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'INGGNED890P882', ip: '10.3.50.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1601727283354,
+        "stop" : 1601727283515,
+        "duration" : 161
+      }
+    }, {
+      "uid" : "a2fb3b3324b80976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600424917410,
+        "stop" : 1600425014960,
+        "duration" : 97550
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdcf8ffb5fc25379.json",
+  "parameterValues" : [ ]
+}
