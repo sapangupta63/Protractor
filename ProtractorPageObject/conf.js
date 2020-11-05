@@ -51,7 +51,7 @@ var HtmlReporter = require('protractor-beautiful-reporter');
 
 exports.config=
 {
-  //new
+  //newtestinghello
   //seleniumAddress: 'http://localhost:4444/wd/hub',
 directConnect:'true', 
 capabilities:{
@@ -63,6 +63,7 @@ capabilities:{
     //   args:['--headless','--window-size=1920x1280']
     // }
 },
+
 framework:'jasmine2',
 //specs:['./regression/Repeater.js'],
 //specs:['./regression/repeater1.js'],
